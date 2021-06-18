@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDqWr/HkhwyD5Ux3YCOF6cr8LsgxHUXw0yNW6ZGgDkalSh6bnGWXBuT68U+lYb7D2mvZe45bGzvv02ujrJkM8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuldeepp\\Documents\\GitHub\\Recipie\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuldeepp\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\kuldeepp\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\kuldeepp\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\kuldeepp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kuldeepp\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
